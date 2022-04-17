@@ -1,0 +1,27 @@
+.div_speed{
+    float: left;
+}
+.div_vol{
+    float: right;
+}
+.div_speed_img{
+width: 200px;
+border-radius: 100px;
+margin: 10px;
+}
+.div_vol_img{
+    width: 200px;
+    border-radius: 100px;
+    margin: 10px;
+}
+.btn_play{
+    width: 150px;
+    height: 50px;
+    font-size: 30px;
+    margin-top: 10px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 40px;
+}
